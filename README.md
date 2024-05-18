@@ -26,6 +26,9 @@ company_size: The size of the company based on employee count or revenue.
 
 # Team Members 
 Kardo Sherzad
+
 Rawyar Salar 
+
 Bryar Ghafur
+
 Hardi Ali
