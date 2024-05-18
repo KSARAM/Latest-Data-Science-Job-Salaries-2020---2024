@@ -1,7 +1,7 @@
 # Latest-Data-Science-Job-Salaries-2020---2024
-# About Dataset
+ About Dataset
 
-# Description:
+Description:
 This dataset provides insights into data science job salaries from 2020 to 2024, including information on experience levels, employment types, job titles, and company characteristics. It serves as a valuable resource for understanding salary trends and factors influencing compensation in the data science field.
 
 # Features:
