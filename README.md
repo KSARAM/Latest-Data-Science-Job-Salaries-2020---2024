@@ -20,8 +20,6 @@ employee_residence: The residence location of the employee.
 
 remote_ratio: The ratio of remote work allowed for the position.
 
-company_location: The location of the company.
-
 company_size: The size of the company based on employee count or revenue.
 
 # Team Members 
